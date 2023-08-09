@@ -8,9 +8,7 @@
 
 ### Once the Project has Built Successfullt Test the Following on Postman
 ## To get list of books call the GET Request
-'''
-ABC
-'''
+>http://localhost:8080/bookservice/books
 
 
 
