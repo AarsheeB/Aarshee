@@ -10,6 +10,9 @@
 ## To get list of books call the GET Request
 ## http://localhost:8080/bookservice/books
 
+## To Create New Book use the POST Request
+## http://localhost:8080/bookservice/books
+
 
 
 
